@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:chaoslaboratories/chaoslaboratories.github.io.git
+	branch = master
